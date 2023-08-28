@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elcuatro29?tab=repositories](https://github.com/elcuatro29?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/oliverisaacq?tab=repositories](https://github.com/oliverisaacq?tab=repositories)
 
 - 💬 Ask me about **c, c++, htlm, css, java, mysqlserver and jscript**
 
@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/malxinfluencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malxinfluencia" height="30" width="40" /></a>
-<a href="https://instagram.com/elcuatro29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elcuatro29" height="30" width="40" /></a>
+<a href="https://instagram.com/oliverisaacq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elcuatro29" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -55,13 +55,13 @@ Programming Languages
 <br>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elcuatro29&show_icons=true&theme=radical&locale=en&layout=compact" alt="elcuatro29"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverisaacq&show_icons=true&theme=radical&locale=en&layout=compact" alt="elcuatro29"/>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=elcuatro29&show_icons=true&theme=radical&locale=en" alt="elcuatro29"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=oliverisaacq&show_icons=true&theme=radical&locale=en" alt="elcuatro29"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcuatro29&label=Profile%20views&color=0e75b6&style=flat" alt="elcuatro29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverisaacq&label=Profile%20views&color=0e75b6&style=flat" alt="elcuatro29" /> </p>
 
 
 
