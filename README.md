@@ -61,8 +61,8 @@
 <strong>Game Engines</strong><br>
 <a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="80" height="80"/></a>
 <a href="https://www.unrealengine.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="80" height="80"/></a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="unreal" width="80" height="80"/>
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" alt="unreal engine" width="80" height="80"/>
 </a>
 </p>
 
