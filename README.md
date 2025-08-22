@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A passionate lover of tattoos, video games, manga, and technology.</h3>
+<h3 align="center">A passionate enthusiast of tattoos, video games, manga, and technology.</h3>
 <br>
 
 - 🔭 Currently seeking opportunities as a **Front-End Web Developer**  
-- 🌱 Learning **Full-Stack Web Development** (HTML, CSS, JavaScript, Node.js, React, MongoDB, Web3 & DApps) and **Python** (Data Science, Automation, Web & App Development, Games)  
-- 🤝 Open to collaborate on **Web Development projects**  
-- 👨‍💻 Check out my work: [My GitHub Repositories](https://github.com/oliverisaacq?tab=repositories)  
-- 💬 Ask me about **C, C++, HTML, CSS, Java, MySQL, and JavaScript**  
-- 📫 Reach me at **oliverquiel@gmail.com**
+- 🌱 Expanding my skills in **Full-Stack Web Development** (HTML, CSS, JavaScript, Node.js, React, MongoDB, Web3 & DApps) and **Python** (Data Science, Automation, Web & App Development, Games)  
+- 🤝 Open to collaborating on **Web Development projects**  
+- 👨‍💻 Explore my work here: [My GitHub Repositories](https://github.com/oliverisaacq?tab=repositories)  
+- 💬 Ask me about **C, C++, HTML, CSS, Java, Python, MySQL, and JavaScript**  
+- 📫 You can reach me at **oliverquiel@gmail.com**
 
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href="https://instagram.com/oliverisaacq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="40"/></a>
+<a href="https://instagram.com/oliverisaacq" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="instagram" height="30" width="30"/> 
+  <span style="margin-left:5px;">Instagram</span>
+</a>
 </p>
 
 ---
